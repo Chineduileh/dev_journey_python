@@ -1,6 +1,6 @@
 # Python — Dev Journey
 
-My Python learning repository as part of a structured 10-month 
+My Python learning repository as part of a structured 
 return to software development.
 
 ## 🗺️ Phase 1 Progress
