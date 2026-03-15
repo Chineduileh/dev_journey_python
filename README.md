@@ -8,7 +8,7 @@ return to software development.
 | # | Topic | Status | Notes |
 |---|-------|--------|-------|
 | 01 | Data Types & Type Conversion | ✅ Complete  | |
-| 02 | Control Flow | ⏳ Not Started | |
+| 02 | Control Flow | ✅ Complete | |
 | 03 | Functions | ⏳ Not Started | |
 | 04 | Error Handling | ⏳ Not Started | |
 | 05 | File I/O | ⏳ Not Started | |
