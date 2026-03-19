@@ -9,7 +9,7 @@ return to software development.
 |---|-------|--------|-------|
 | 01 | Data Types & Type Conversion | ✅ Complete  | |
 | 02 | Control Flow | ✅ Complete | |
-| 03 | Functions | ⏳ Not Started | |
+| 03 | Functions | ⏳✅ Complete | |
 | 04 | Error Handling | ⏳ Not Started | |
 | 05 | File I/O | ⏳ Not Started | |
 | 06 | Object-Oriented Programming | ⏳ Not Started | |
