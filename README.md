@@ -13,7 +13,7 @@ return to software development.
 | 04 | Error Handling | ✅ Complete | |
 | 05 | File I/O | ✅ Complete | |
 | 06 | Object-Oriented Programming | ✅ Complete | |
-| 07 | Modules & Imports | ⏳ Not Started | |
+| 07 | Modules & Imports | ✅ Complete | |
 | 08 | Type Hints | ⏳ Not Started | |
 | 09 | List & Dict Comprehensions | ⏳ Not Started | |
 | 10 | Decorators | ⏳ Not Started | |
