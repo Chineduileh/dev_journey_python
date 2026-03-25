@@ -12,7 +12,7 @@ return to software development.
 | 03 | Functions | ✅ Complete | |
 | 04 | Error Handling | ✅ Complete | |
 | 05 | File I/O | ✅ Complete | |
-| 06 | Object-Oriented Programming | ⏳ Not Started | |
+| 06 | Object-Oriented Programming | ✅ Complete | |
 | 07 | Modules & Imports | ⏳ Not Started | |
 | 08 | Type Hints | ⏳ Not Started | |
 | 09 | List & Dict Comprehensions | ⏳ Not Started | |
